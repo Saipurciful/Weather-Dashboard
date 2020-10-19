@@ -1,0 +1,52 @@
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+li {
+  border-bottom: 1px solid rgb(207, 196, 196);
+  text-align: left;
+  padding-left: 20px;
+}
+
+.card-title {
+  font-size: 20px;
+}
+
+
+
+.fiveDayColor {
+  padding: 20px;
+  background-color: #2f7dca;
+  color: white;
+  float: left;
+  margin: 10px;
+  border: 1px solid rgb(219, 210, 210);
+
+}
+
+
+h1 {
+  color: white;
+  font-size: 60px;
+  text-align: center;
+
+}
+
+button {
+  background-color: rgb(142, 190, 233);
+}
+.jumbotron{
+  width: 60%;
+  padding-right: 10px;
+}
+.searchBox{
+  float: left;
+  width: 20%;
+  height: 100%;
+}
+.fiveDay{
+  padding-left: 335px;
+  
+}
